@@ -74,7 +74,7 @@ const TechShowcase: React.FC = () => {
                 <div className="aspect-video bg-slate-800 rounded overflow-hidden border border-slate-300 relative shadow-inner">
                   <img
                     src="/img/estudio_volume_led.webp"
-                    alt="Parede de LED 16x5m"
+                    alt="Painel de LED 16x5m"
                     className="w-full h-full object-cover opacity-90"
                   />
                   {/* Overlay for technical look */}

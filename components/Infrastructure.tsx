@@ -30,13 +30,6 @@ const Infrastructure: React.FC = () => {
                 <span className="text-slate-500 text-sm">Camarins exclusivos e Sala de Produção mobiliada.</span>
               </div>
             </li>
-            <li className="flex items-start gap-3">
-              <div className="mt-1 text-slate-400"><ShieldCheck size={16} /></div>
-              <div>
-                <strong className="text-slate-900 text-sm block">Segurança</strong>
-                <span className="text-slate-500 text-sm">Estúdio com AVCB vigente e gerador em stand-by.</span>
-              </div>
-            </li>
           </ul>
         </div>
 

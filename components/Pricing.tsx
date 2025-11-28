@@ -22,7 +22,7 @@ const Pricing: React.FC = () => {
           </div>
           <div className="p-6 flex-1 bg-white">
             <ul className="text-sm space-y-3 text-slate-600 mb-6 list-disc pl-4 marker:text-slate-300">
-              <li>Parede de LED 16x5m (2.6mm HDR)</li>
+              <li>Painel de LED 16x5m (2.6mm HDR)</li>
               <li>1x Servidor Disguise VX</li>
               <li>3x Câmeras Sony FX6 + Tripés</li>
               <li>Switcher Blackmagic ATEM 2M/E</li>
